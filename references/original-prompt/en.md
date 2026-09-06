@@ -1,0 +1,17 @@
+Create one independent premium design poster per uploaded photograph, never a multi-photo collage. Initially use a 3:4 portrait composition divided into top and bottom of exactly equal height, 50% each.
+
+Preserve the original photograph above: subject identity, structure, pose, real texture, natural lighting and colour atmosphere. Use only slight refined grading for art-magazine and exhibition-image quality. Extend the environment naturally to fit if necessary, but never stretch, distort or change the subject.
+
+Make fresh artistic decisions below, extracting only the most recognisable subject, contours, structure, pose and narrative relationships. Do not copy the entire photograph or keep unrelated backgrounds and secondary objects. Remove most information and retain the characteristic structural flow and visual memory points, then recreate them through minimal linework, geometric colour shapes, positive/negative knockout and boundary-breaking overlaps. The relationship with the source should be immediately clear without looking like a simple redraw.
+
+Use thin, clear, restrained vector-like structural lines, reducing the subject to necessary contours and internal lines. One regular geometric colour block acts as the visual anchor. Where the subject enters it, reveal the subject through white knockout or negative shape; outside it, switch to linework or a single-colour positive shape. Let parts cross, cover or interrupt the geometric boundary to create space and movement. A few starbursts, dots, lines or tiny geometric symbols may be added only for balance.
+
+Maintain a small, stamp-like visual core against enormous whitespace. Position freely according to the subject’s direction, proportions and visual centre: off-centre, edge-aligned, suspended or partly cropped. Whitespace is a compositional shape equal to the subject, colour block and lines, not leftover background. Use positive/negative forms, scale contrast, density and asymmetric balance to create breath, space and pauses. Prefer substantial deletion to filling the canvas.
+
+Give the lower region full freedom of redirection. Do not inherit loose composition, clutter or an undersized subject: subtract, regroup, crop, change scale, reposition and use whitespace to turn the original theme into a convincing design. Preserve the source’s core spirit and recognisability, not every item or its original arrangement.
+
+Extract and reorganise 1–3 of the source’s most distinctive, lively colours. White, ivory or an intelligently matched very pale background carries the broad whitespace. Moderately brighten, purify and de-grey the main colours for a fresh, modern, clean artistic finish. Text is a minimal editorial intervention in any language: a few words or short phrases derived from subject, location, mood or metaphor, quietly integrated into whitespace and the graphic layout.
+
+Aim for refined graphic design combining linework, knockout, boundary-breaking, a geometric anchor, immense whitespace and editorial typography. Avoid object-by-object copying, excessive background, realistic illustration, piled-up details, full coverage, heavy shadows, complex gradients, cartoon or 3D effects and template layouts.
+
+Final amendment: switch to a left–right, side-by-side layout. Aspect ratio 7:6. This replaces the earlier top–bottom and 3:4 instructions; preserve equal 50:50 regions, with the original left and design right.

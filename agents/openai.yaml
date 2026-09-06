@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 144"
+  short_description: "Geometric Knockout Linework"
+  default_prompt: "Use $xxd-panel-144 to transform my photograph using the complete canonical source brief."
