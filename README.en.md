@@ -30,6 +30,15 @@ For personal photography collections, independent publications, exhibition studi
 
 Make fresh artistic decisions below, extracting only the most recognisable subject, contours, structure, pose and narrative relationships. Do not copy the entire photograph or keep unrelated backgrounds and secondary objects. Remove most information and retain the characteristic structural flow and visual memory points, then recreate them through minimal linework, geometric colour shapes, positive/negative knockout and boundary-breaking overlaps. The relationship with the source should be immediately clear without looking like a simple redraw.
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -39,14 +48,6 @@ The Chinese file preserves the user's original prompt verbatim and is the sole r
 ## Quick fit check
 
 Keep the source identity while redirecting composition; retain the material signature while actively leaving space. Choose exact text, generated copy or no text, with single-image or recursive directory processing and the four delivery modes below.
-
-## Transformation logic
-
-Read the subject and relationships → extract the original brief’s visual language → remove irrelevant detail → recompose scale, placement and whitespace → add minimal source-grounded copy → check geometry, text and finish
-
-## Recognisable finished traits
-
-Aim for refined graphic design combining linework, knockout, boundary-breaking, a geometric anchor, immense whitespace and editorial typography. Avoid object-by-object copying, excessive background, realistic illustration, piled-up details, full coverage, heavy shadows, complex gradients, cartoon or 3D effects and template layouts.
 
 ## Four output modes
 
