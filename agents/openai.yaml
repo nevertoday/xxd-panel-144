@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 144"
-  short_description: "Geometric Knockout Linework"
-  default_prompt: "Use $xxd-panel-144 to transform my photograph using the complete canonical source brief."
+  short_description: "几何反白破框志：细线描主体压进一块几何色块里反白显形，再越出边框，默认左右 7:6"
+  default_prompt: "Use $xxd-panel-144 to turn my photo into Geometric Knockout Linework artwork."

@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 144｜Geometric Knockout Linework: redraws the key subject of a photo in slim, clean, vector-like structural lines anchored by one regular geometric colour block; where the subject enters the block it appears in white knockout or negative shape, outside it returns to line or a single solid colour, and parts break out of or cut across the block's edge, with an occasional star, dotted line or tiny geometric mark, in 1–3 brightened colours from the photo on white or very pale ground, a small seal-like core in very large whitespace and a few words in any language. Defaults to a left–right 7:6 comparison (photo left, design right, 50:50); 3:4 top–bottom only when chosen. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-144 or asks for knockout line art, geometric block with negative space or break-the-frame minimal graphics from a photo.",
+  "short_description": "几何反白破框志：细线描主体压进一块几何色块里反白显形，再越出边框，默认左右 7:6",
+  "zh-CN": {
+    "name": "几何反白破框志",
+    "tagline": "用细线描和一块几何色块重画照片主体，进入色块处反白，越出边框处变回线条。",
+    "look": "主体用纤细、清晰、克制的矢量式线条概括，只留必要的轮廓和几条内部线。画面里有一块规则的几何色块作为锚点：主体进入色块的部分以白色反白或负形显现，离开色块后又变回线描或单色实形，局部还会穿出、覆盖或切断色块边界。偶尔点缀一两个星芒、点线或小几何符号。颜色只从照片里取 1–3 种，提亮去灰，配白、米白或很浅的底。核心像一枚小章印，四周大片留白，配几个字词或短句。",
+    "traits": [
+      "纤细矢量式线描",
+      "单个几何色块",
+      "白色反白",
+      "越界穿插",
+      "邮票式小核心",
+      "默认左右 7:6"
+    ],
+    "good": [
+      "轮廓清楚、能用几根线说明的主体：一只鸟、一个人骑车、一盏灯、一座房子",
+      "有动作或方向感的照片，适合让主体穿出色块：跳跃、奔跑、伸出的手",
+      "想做成现代极简海报、品牌插画或明信片的照片"
+    ],
+    "poor": [
+      "以细腻光影、质感或丰富颜色取胜的照片：油画般的风景、美食特写",
+      "人多、物多、结构乱的场景，线描会变得杂乱",
+      "想要写实插画、厚重阴影、复杂渐变、卡通或 3D 效果"
+    ]
+  },
+  "en": {
+    "name": "Geometric Knockout Linework",
+    "tagline": "Redraws your photo's subject in fine lines over one geometric colour block: knocked out in white inside it, back to line outside.",
+    "look": "The subject is summarised in slim, clean, restrained vector-like lines, keeping only the essential outline and a few inner lines. One regular geometric colour block anchors the picture: where the subject enters the block it shows as a white knockout or negative shape, and once it leaves it turns back into line or a single solid colour, sometimes breaking out of, overlapping or cutting the block's edge. A star burst, dotted line or tiny geometric mark may appear for balance. Only one to three brightened colours come from the photo, on white, off-white or a very pale ground. The core is as small as a seal, set in wide whitespace with a few words or a short phrase.",
+    "traits": [
+      "Slim vector-like linework",
+      "One geometric colour block",
+      "White knockout",
+      "Breaking the frame",
+      "Small stamp-like core",
+      "Left–right 7:6 by default"
+    ],
+    "good": [
+      "Subjects with a clear outline that a few lines can explain: a bird, someone on a bike, a lamp, a house",
+      "Photos with movement or direction, where the subject can break out of the block: jumping, running, an outstretched hand",
+      "Photos for a modern minimal poster, brand illustration or postcard"
+    ],
+    "poor": [
+      "Photos that rely on subtle light, texture or rich colour: painterly landscapes, food close-ups",
+      "Crowded, cluttered scenes, which make the linework messy",
+      "Requests for realistic illustration, heavy shadows, complex gradients, cartoon or 3D"
+    ]
+  },
+  "ja": {
+    "name": "幾何白抜きと破枠線描",
+    "tagline": "細い線描と一つの幾何の色面で写真の主役を描き直し、色面の中では白抜き、外に出ると線に戻します。",
+    "look": "主役は細く、すっきりと控えめなベクター風の線でまとめ、必要な輪郭と数本の内側の線だけを残します。画面には規則的な幾何の色面が一つあり、それが要になります。主役が色面に入った部分は白抜きや反転した形で現れ、外に出ると線描や単色の形に戻り、ところどころ色面の縁を越えたり、覆ったり、断ち切ったりします。バランスのために星形、点線、小さな幾何の記号を少し添えることもあります。色は写真から 1〜3 色だけを明るく澄ませ、白、生成り、ごく淡い地と合わせます。中心は小さな印のような大きさで、周りは大きな余白。単語か短い一言を添えます。",
+    "traits": [
+      "細いベクター風線描",
+      "一つの幾何の色面",
+      "白抜き",
+      "枠を破るはみ出し",
+      "切手のような小さな核",
+      "標準は左右 7:6"
+    ],
+    "good": [
+      "数本の線で説明できる輪郭のはっきりした主役：鳥、自転車に乗る人、ランプ、家",
+      "動きや方向がある写真（主役を色面からはみ出させやすい）：ジャンプ、走る姿、伸ばした手",
+      "現代的なミニマルポスター、ブランドイラスト、ポストカードにしたい写真"
+    ],
+    "poor": [
+      "繊細な光、質感、豊かな色が魅力の写真：絵画のような風景、料理のアップ",
+      "人や物が多く雑然とした場面（線描がごちゃつきます）",
+      "写実的なイラスト、重い影、複雑なグラデーション、アニメ調、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "기하 백색 반전 선묘",
+    "tagline": "가는 선묘와 기하 색면 하나로 사진의 주인공을 다시 그리고, 색면 안에서는 흰색으로 반전, 밖에서는 선으로 돌아옵니다.",
+    "look": "주인공은 가늘고 깔끔하며 절제된 벡터풍 선으로 정리하고, 꼭 필요한 윤곽과 안쪽 선 몇 개만 남깁니다. 화면에는 규칙적인 기하 색면 하나가 중심을 잡습니다. 주인공이 색면 안으로 들어간 부분은 흰색 반전이나 음각 형태로 드러나고, 밖으로 나오면 다시 선묘나 단색 형태가 되며, 군데군데 색면 경계를 뚫고 나가거나 덮거나 끊습니다. 균형을 위해 별 모양, 점선, 작은 기하 기호를 조금 둘 수 있습니다. 색은 사진에서 1~3가지만 골라 밝고 맑게 다듬어 흰색, 미색, 아주 연한 바탕과 맞춥니다. 중심은 작은 도장만 한 크기이고 주변은 넓은 여백이며, 단어나 짧은 문장을 곁들입니다.",
+    "traits": [
+      "가는 벡터풍 선묘",
+      "하나의 기하 색면",
+      "흰색 반전",
+      "틀을 깨는 돌출",
+      "우표 같은 작은 중심",
+      "기본은 좌우 7:6"
+    ],
+    "good": [
+      "선 몇 개로 설명되는 윤곽이 분명한 주인공: 새, 자전거 타는 사람, 램프, 집",
+      "움직임이나 방향이 있어 주인공이 색면을 뚫고 나가기 좋은 사진: 점프, 달리기, 뻗은 손",
+      "현대적인 미니멀 포스터, 브랜드 일러스트, 엽서로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "섬세한 빛, 질감, 풍부한 색이 매력인 사진: 그림 같은 풍경, 음식 클로즈업",
+      "사람과 물건이 많아 어수선한 장면(선묘가 산만해집니다)",
+      "사실적인 일러스트, 무거운 그림자, 복잡한 그러데이션, 만화풍, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "خط هندسي بتفريغ أبيض",
+    "tagline": "يعيد رسم العنصر الرئيسي في صورتك بخطوط رفيعة فوق كتلة لونية هندسية واحدة: مفرّغ بالأبيض داخلها، وخطاً من جديد خارجها.",
+    "look": "يُختصر العنصر بخطوط رفيعة نظيفة مقتصدة تشبه الرسوم المتجهية، لا تحتفظ إلا بالخط الخارجي الأساسي وبضعة خطوط داخلية. وتثبّت الصورةَ كتلةٌ لونية هندسية منتظمة واحدة: حيث يدخل العنصر الكتلة يظهر تفريغاً أبيض أو شكلاً سالباً، وحين يخرج منها يعود خطاً أو لوناً مصمتاً واحداً، وأحياناً يخترق حافة الكتلة أو يغطيها أو يقطعها. قد تظهر نجمة صغيرة أو خط منقّط أو علامة هندسية دقيقة لتحقيق التوازن. لا تُؤخذ من الصورة إلا لون إلى ثلاثة ألوان مُفتَّحة، على أرضية بيضاء أو كريمية أو فاتحة جداً. النواة صغيرة بحجم ختم وسط فراغ واسع، مع كلمات قليلة أو عبارة قصيرة.",
+    "traits": [
+      "خطوط رفيعة شبه متجهية",
+      "كتلة لونية هندسية واحدة",
+      "تفريغ أبيض",
+      "كسر الإطار",
+      "نواة صغيرة كالطابع",
+      "يسار–يمين 7:6 افتراضياً"
+    ],
+    "good": [
+      "عناصر بخط خارجي واضح تشرحها بضعة خطوط: طائر، شخص على دراجة، مصباح، بيت",
+      "صور فيها حركة أو اتجاه يسمح للعنصر بالخروج من الكتلة: قفزة، ركض، يد ممدودة",
+      "صور لملصق حديث بسيط أو رسم لعلامة تجارية أو بطاقة بريدية"
+    ],
+    "poor": [
+      "صور تعتمد على الضوء الرقيق أو الملمس أو غنى الألوان: مناظر كأنها لوحات زيتية، لقطات طعام مقرّبة",
+      "مشاهد مزدحمة فوضوية تجعل الخطوط مشوّشة",
+      "طلب رسم واقعي أو ظلال ثقيلة أو تدرّجات معقدة أو مظهر كرتوني أو ثلاثي الأبعاد"
+    ]
+  }
+}

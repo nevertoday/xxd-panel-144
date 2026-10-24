@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-144
-description: "Create XXD Panel 144 raster artwork from photographs using fine vector-like linework, one geometric colour anchor, white knockout and boundary-breaking overlaps, a tiny stamp-like focal core and enormous whitespace. Use when the user invokes xxd-panel-144 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 144｜Geometric Knockout Linework: redraws the key subject of a photo in slim, clean, vector-like structural lines anchored by one regular geometric colour block; where the subject enters the block it appears in white knockout or negative shape, outside it returns to line or a single solid colour, and parts break out of or cut across the block's edge, with an occasional star, dotted line or tiny geometric mark, in 1–3 brightened colours from the photo on white or very pale ground, a small seal-like core in very large whitespace and a few words in any language. Defaults to a left–right 7:6 comparison (photo left, design right, 50:50); 3:4 top–bottom only when chosen. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-144 or asks for knockout line art, geometric block with negative space or break-the-frame minimal graphics from a photo."
 ---
 
 # XXD Panel 144
